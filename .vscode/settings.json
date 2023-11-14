@@ -28,7 +28,14 @@
     "[json]": {
         "editor.formatOnSave": false
     },
-    "clangd.arguments": [
-        "--header-insertion=never"
+    "clangd.arguments": ["--header-insertion=never"],
+    "cSpell.words": [
+        "autoshift",
+        "capslock",
+        "keypos",
+        "noeeprom",
+        "rgblight",
+        "sethsv",
+        "TRNS"
     ]
 }
