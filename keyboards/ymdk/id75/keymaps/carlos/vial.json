@@ -3,6 +3,9 @@
   "vendorId": "0x45D4",
   "productId": "0x0075",
   "lighting": "vialrgb",
+  "vial": {
+    "midi": "advanced"
+  },
   "matrix": { "rows": 5, "cols": 15 },
   "layouts": {
     "keymap": [
